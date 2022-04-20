@@ -6,9 +6,10 @@ A common design resources with a tutorial on wire-framing and prototyping
 * [Graphic Design](https://www.youtube.com/watch?v=9QTCvayLhCA&t=21967s)
 * [Design](https://baselinehq.com/course.html)
 * [LearnUX](https://learnux.io)
-* 
+* [DesignerUp](https://designerup.co)
 
 #### Links:
+* [UNICEF Graphics Manual](https://www.unicef.org/argentina/sites/unicef.org.argentina/files/2018-04/2.2%20UNICEF%20GRAPHICS%20MANUAL%20LITE%201.2.pdf)
 * [Websites on UX/UI](https://apparicio.notion.site/apparicio/Links-about-UX-and-UI-eb1a774d01e74587b3c57ab9a9440266)
 * [A Beginner's Guide to Getting Started in UX Research](https://www.notion.so/A-Beginner-s-Guide-to-Getting-Started-in-UX-Research-1e3e0567b4944c938ae8d1a4f0a21c56#6fd9d3bde69f4ccaaffe2013b47c2eba) 
 * [Open Source Design Resources](https://opensourcedesign.net/resources/)
@@ -22,6 +23,9 @@ A common design resources with a tutorial on wire-framing and prototyping
 * [Design Principles](https://principles.design)
 * [UX starter pack](https://uxstarterpack.com)
 * [Checklist](https://www.checklist.design)
+* [Material Design Toolkit](https://material.io/design)
+* [Humane by Design](https://humanebydesign.com)
+* [UX/UI](https://apparicio.notion.site/apparicio/more-links-about-UX-and-UI-8982eed1beba4cb4acb3f3ec41d46dcb)
 
 #### Github Repositories:
 
