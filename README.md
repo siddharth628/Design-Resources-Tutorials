@@ -5,6 +5,7 @@ A common design resources with a tutorial on wire-framing and prototyping
 * [GOOGLE UX Certificate course](https://www.youtube.com/watch?v=6qLq7xkodA8&list=PLtS8Ubq2bIlUWixdH_1Q2yzZh8QJSBVmT)
 * [Graphic Design](https://www.youtube.com/watch?v=9QTCvayLhCA&t=21967s)
 * [Design](https://baselinehq.com/course.html)
+* [LearnUX](https://learnux.io)
 * 
 
 #### Links:
@@ -13,6 +14,14 @@ A common design resources with a tutorial on wire-framing and prototyping
 * [Open Source Design Resources](https://opensourcedesign.net/resources/)
 * [Dschool Stanford](https://dschool.stanford.edu/resources)
 * [IDEO](https://www.ideo.com/tools)
+* [UX Resources by Learners Community](https://www.researchresources.joinlearners.com)
+* [Guide to User Research (UXR)](http://guidetouxr.com)
+* [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* [Nielsen Norman Group](https://www.nngroup.com)
+* [Degreless.Design](https://www.degreeless.design)
+* [Design Principles](https://principles.design)
+* [UX starter pack](https://uxstarterpack.com)
+* [Checklist](https://www.checklist.design)
 
 #### Github Repositories:
 
@@ -20,6 +29,11 @@ A common design resources with a tutorial on wire-framing and prototyping
 * [Google UX Study](https://www.drupal.org/node/1427940)
 * [University of Minnesota](https://www.drupal.org/node/1166656)
 * [UX Study on creating content types](https://groups.drupal.org/node/159444)
+* [Systems Thinking](https://bootcamp.uxdesign.cc/uncover-the-users-world-with-systems-thinking-a-case-study-81d96eb0cc48)
+* [Really good UX](https://www.reallygoodux.io)
+* [Design Sprint Kit](https://designsprintkit.withgoogle.com/case-studies)
+* [Drawerrr](https://drawerrr.com/ux-cases)
+* [Growth.Design](https://growth.design/case-studies)
 
 
 #### Websites:
@@ -30,6 +44,8 @@ A common design resources with a tutorial on wire-framing and prototyping
 
 #### Web Articles:
 * [Self taught ui/ux designer roadmap](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
+* [Design Thinking Workshop](https://uxdesign.cc/comprehensive-anatomy-of-all-ux-design-thinking-workshops-c416706cd3e2)
+* 
 
 
 #### Manifestos:
