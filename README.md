@@ -30,6 +30,7 @@ A common design resources with a tutorial on wire-framing and prototyping
 
 #### Manifestos:
 * [Realtime Art Manifesto](https://tale-of-tales.com/tales/RAM.html)
+* [Ontological Design Manifesto](https://medium.datadriveninvestor.com/the-manifesto-of-ontological-design-7fdb19169107#:~:text=Ontological%20design%20is%20the%20design,designing%20the%20human%20being%20itself)
 * 
 
 
