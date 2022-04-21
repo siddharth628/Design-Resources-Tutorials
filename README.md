@@ -1,5 +1,5 @@
 # Design-Resources-Tutorials
-A common design resources with a tutorial on wire-framing and prototyping
+<h1>A design resource library</h1>
 
 #### Courses: 
 * [GOOGLE UX Certificate course](https://www.youtube.com/watch?v=6qLq7xkodA8&list=PLtS8Ubq2bIlUWixdH_1Q2yzZh8QJSBVmT)
@@ -49,7 +49,7 @@ A common design resources with a tutorial on wire-framing and prototyping
 #### Web Articles:
 * [Self taught ui/ux designer roadmap](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 * [Design Thinking Workshop](https://uxdesign.cc/comprehensive-anatomy-of-all-ux-design-thinking-workshops-c416706cd3e2)
-* 
+
 
 
 #### Manifestos:
@@ -64,4 +64,4 @@ A common design resources with a tutorial on wire-framing and prototyping
 * [Layout Essentials: 100 Design Principles for Using Grids (Design Essentials)](https://www.amazon.in/Layout-Essentials-Design-Principles-Using/dp/1592537073)
 * [Universal Principles of Design](https://www.amazon.in/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=asc_df_1592535879/?tag=googleshopdes-21&linkCode=df0&hvadid=397082443868&hvpos=&hvnetw=g&hvrand=2017440298820084187&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061673&hvtargid=pla-406163955593&psc=1&ext_vrnc=hi)
 * [Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds (New Ecologies for the Twenty-First Century)](https://www.amazon.in/dp/B07BFXGZWM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-* 
+* [The Shape of Things: a Philosophy of Design](https://www.amazon.in/Shape-Things-Philosophy-Design/dp/1861890559)
